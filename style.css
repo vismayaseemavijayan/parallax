@@ -1,0 +1,20 @@
+element.style {
+}
+:root {
+}
+html {
+    font-family: sans-serif;
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+}
+html[Attributes Style] {
+    -webkit-locale: "en-US";
+}
+user agent stylesheet
+:root {
+    view-transition-name: root;
+}
+user agent stylesheet
+html {
+    display: block;
+}
